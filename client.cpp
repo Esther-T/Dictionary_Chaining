@@ -1,5 +1,5 @@
 //username: ltan
-//authors: Adam Pesch and Esther Tan
+//authors: Esther Tan
 //file name:client.cpp
 // tests the operations of dictionary.cpp
 // filename client.cpp
