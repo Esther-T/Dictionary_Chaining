@@ -1,5 +1,5 @@
 //username: ltan
-// authors: Adam Pesch and Esther Tan
+// authors: Esther Tan
 //file name: dictionary.cpp
 // Implementation of ADT Dictionary
 //     data object: a bunch of texting abbreviations and their meanings 
